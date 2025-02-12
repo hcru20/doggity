@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Dog from './dog'
+import DogLanding from './DogLanding'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         Doggity
       </header>
-      <Dog/>
+      <DogLanding/>
     </div>
   );
 }
